@@ -116,7 +116,7 @@ Exactly!
 [AAAI 2025 PRESIDENTIAL PANEL ON THE Future of AI Research. Report Published March 25](https://aaai.org/wp-content/uploads/2025/03/AAAI-2025-PresPanel-Report-Digital-3.7.25.pdf)
 :::
 
-## New
+## AI assisted or human assisted?
 
 ![](img/medicine.png)
 
@@ -167,7 +167,13 @@ There are multiple forms of learning:
 Neuroplasticity is the brain's ability to reorganize itself by forming new neural pathways throughout life.
 
 - **Neurplasticity is crucial for learning and memory**. It allows the brain to adapt to new experiences. 
+- **Neuroplasticity is also crucial in happiness and stress regulation**
 ::: 
+
+::: {.footer}
+[Blakemore, S. J., & Frith, U. (2005). The learning brain: Lessons for education. Blackwell publishing](https://www.wiley.com/en-ae/The+Learning+Brain%3A+Lessons+for+Education-p-9781405124010) <br>
+[Pittenger, C., Duman, R. Stress, Depression, and Neuroplasticity: A Convergence of Mechanisms. Neuropsychopharmacol 33, 88–109 (2008)](https://doi.org/10.1038/sj.npp.1301574)
+:::
 
 ## What does our brain need?
 ![](https://images.theconversation.com/files/70762/original/image-20150202-25924-ovcp6p.jpg?ixlib=rb-4.1.0&rect=0%2C103%2C994%2C778&q=45&auto=format&w=926&fit=clip)
@@ -188,7 +194,7 @@ We all (i.e. worldwide) seem to have an intrinsic motivation to avoid cognitive 
 - The larger the cognitive effort, the larger the aversion to it.
 
 ::: {.footer}
-[David, L., Vassena, E., & Bijleveld, E. (2024). The unpleasantness of thinking: A meta-analytic review of the association between mental effort and negative affect. Psychological Bulletin.](https://psycnet.apa.org/doi/10.1037/bul0000443)
+[David, L., Vassena, E., & Bijleveld, E. (2024). The unpleasantness of thinking: <br> A meta-analytic review of the association between mental effort and negative affect. Psychological Bulletin.](https://psycnet.apa.org/doi/10.1037/bul0000443)
 :::
 
 ## This bites a bit with... 
@@ -243,7 +249,7 @@ But, also:
 ![](img/pos1.png)
 
 ::: {.footer}
-Farhood, H., Joudah, I., Beheshti, A., & Muller, S. (2024). Advancing student outcome predictions through generative adversarial networks. Computers and Education: Artificial Intelligence, 7, 100293.
+[Farhood, H., Joudah, I., Beheshti, A., & Muller, S. (2024). Advancing student outcome predictions through generative adversarial networks. <br> Computers and Education: Artificial Intelligence, 7, 100293](https://doi.org/10.1016/j.caeai.2024.100293)
 :::
 
 ## Productivity is better
@@ -265,7 +271,10 @@ Farhood, H., Joudah, I., Beheshti, A., & Muller, S. (2024). Advancing student ou
 
 GenAI tools can be a great asset in the educational process. They can help students to be more productive, to code more effectively and to develop new skills.
 
-This does not mean that they **learn** more or better. It means that they can be more effective in their learning process.
+::: {.callout-warning}
+## However
+This **does not mean that they learn more or better**. It means that they can be more effective in their learning or output process.
+:::
 
 The bottomline is that the basis of this learning process needs to be established before you can use add AI to it. 
 
@@ -273,16 +282,31 @@ If GenAI is replacing the thinking process, humanity may stumble into an existen
 
 # Negative Impact of AI on learning
 
-## First: Performance of GenAI
+## First: 'Performance' of GenAI
 <center>
 ![OpenAI's O1 model scored an IQ of 129 on December 9, 2024](img/iq.png){width="70%"}
-
-## First: Performance of GenAI
-<center>
-![The current landscape](img/iq2.png){width="70%"}
+</center> 
 
 ::: {.footer}
-Source: [https://trackingai.org/IQ]()
+Source: [https://trackingai.org/IQ - December 9, 2024]()
+:::
+
+## First: 'Performance' of GenAI
+<center>
+![](img/offline.png){width="90%"}
+</center> 
+
+::: {.footer}
+Source: [https://trackingai.org/IQ - March 26, 2025]()
+:::
+
+## First: 'Performance' of GenAI
+<center>
+![](img/mensa.png){width="90%"}
+</center> 
+
+::: {.footer}
+Source: [https://trackingai.org/IQ - March 26, 2025]()
 :::
 
 ## Impact of AI on Cognitive Performance
@@ -316,34 +340,11 @@ Source: [https://trackingai.org/IQ]()
 :::
 
 ## Impact of AI on Critical Thinking and Task Management
+
 ![](img/microsoft.png)
 
 ::: {.footer}
-[Lee, H. P. H., Sarkar, A., Tankelevitch, L., Drosos, I., Rintel, S., Banks, R., & Wilson, N. (2025). The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers.](https://www.microsoft.com/en-us/research/publication/the-impact-of-generative-ai-on-critical-thinking-self-reported-reductions-in-cognitive-effort-and-confidence-effects-from-a-survey-of-knowledge-workers/)
-:::
-
-## My biggest fear
-
-![](https://s3.ap-southeast-2.amazonaws.com/assets.the-resilience-shield/app/uploads/2021/05/11143616/Mt-Stupid-1.png)
-
-::: {.footer}
-[Dunning, D. (2011). The Dunning–Kruger effect: On being ignorant of one’s own ignorance. In Advances in experimental social psychology (Vol. 44, pp. 247-296). Academic Press. ](https://doi.org/10.1016/B978-0-12-385522-0.00005-6)
-:::
-
-## Cogito ergo sum
-
-![](img/descartes.webp)
-
-
-## Conclusion
-The way that humans learn has not changed. The tools that we have at our disposal, however, are becoming more plentiful.  We should be careful in implementing these tools into student learning, as they may pose a threat to our cognitive relevance. 
-
-Teaching students how to leverage their own work and creativity is a prime goal for the future of education. 
-
-Teaching our community to replace their own thinking with AI tools will limit the potential of our scientific effort and our intellectual property.
-
-::: {.callout-tip}
-Use generative AI tools to extend your capabilities, not to replace them. AI is IMO not part of the human evolution process. 
+[Lee, H. P. H., Sarkar, A., Tankelevitch, L., Drosos, I., Rintel, S., Banks, R., & Wilson, N. (2025). The Impact of Generative AI on Critical Thinking: <br> Self-Reported Reductions in Cognitive Effort and Confidence Effects From a Survey of Knowledge Workers.](https://www.microsoft.com/en-us/research/publication/the-impact-of-generative-ai-on-critical-thinking-self-reported-reductions-in-cognitive-effort-and-confidence-effects-from-a-survey-of-knowledge-workers/)
 :::
 
 ## Self assessment impact
@@ -359,9 +360,43 @@ If learners depend too heavily on AI to evaluate and correct their work, they mi
 - If you grow accustomed to using AI tools, you are not (further) developing metacognition skills: the ability to think about and control your own learning process.
 - Risk of passive acceptance of AI content and feedback
 
+## My biggest fear
+
+![](https://s3.ap-southeast-2.amazonaws.com/assets.the-resilience-shield/app/uploads/2021/05/11143616/Mt-Stupid-1.png)
+
+::: {.footer}
+[Dunning, D. (2011). The Dunning–Kruger effect: On being ignorant of one’s own ignorance. In Advances in experimental social psychology (Vol. 44, pp. 247-296). Academic Press. ](https://doi.org/10.1016/B978-0-12-385522-0.00005-6)
+:::
+
+## Cogito ergo sum
+
+![](img/descartes.webp)
+
+
+## Advice
+The way that humans learn has not changed. The tools that we have at our disposal, however, are becoming more plentiful.  We should be careful in implementing these tools into student learning, as they may pose a threat to our cognitive relevance. 
+Teaching students how to leverage their own work and creativity is a prime goal for the future of education. 
+
+Teaching our community to replace their own thinking with AI tools will limit the potential of our scientific effort and our intellectual property.
+
+::: {.callout-tip}
+Use generative AI tools to extend your capabilities, not to replace them.
+:::
+
 ## To sum it up
 
 ![](https://i.pinimg.com/736x/c7/98/be/c798be4274ad6cae441262d1f582d225.jpg)
+
+## Conclusion {.smaller}
+1. Integration of AI: Based on its current use, there is a growing need to integrate AI tools into education. Howevere, you don't need AI to learn!
+
+2. Risk to metacognition skills: Excessive use of AI tools is demonstrated to negatively affect the development of higher cognitive abilities. It is crucial that students continue to engage in demanding intellectual processes (e.g., essay writing).
+
+3. Balance AI use: AI should complement rather than replace students’ effort and abilities. It is essential for students to understand that uncritical reliance on AI can hinder their learning; AI can be helpful, for example, in producing tables or creating initial draft slides, but not as a substitute for cognitive engagement.
+
+4. Take responsibility and be safe and transparent: Both students and faculty must learn to be transparent about where and how AI is used, and to be aware of ethical considerations. We need an in-house (enterprise) AI model to ensure privacy, security and equal access for all.
+
+5. Create learning process awareness before critical skills: Guidelines on critical skills for AI usage alone is insufficient; our community needs education on why certain AI-related rules are in place and how AI impacts their learning, particularly in the first year of undergraduate studies.
 
 ## Student rights in the AI-Era Classroom
 
@@ -379,7 +414,7 @@ Every student has the right to refuse interaction or any other involvement with 
 ## Towards responsible genAI use
 I believe that we should demand from the scientific community to follow these simple steps when using generative AI tools:
 
-1. Minimize the use of AI tools, as they are (currently) environmentally unfriendly
+1. Minimize the use of AI tools, especially in learning
 2. Don't input confidential or personal information
 3. Don't input information that violates IP or copyright
 4. Don't violate IP with using output from the tool
@@ -390,15 +425,13 @@ I believe that we should demand from the scientific community to follow these si
 9. Ask the tool not to use input for training
 10. Open the content you produce by using AI tools as much as possible with permissive licenses
 
-If in doubt about any of the above, don't use generative AI tools.
-
-For teachers: Put a disclaimer on your materials that governs what is or is not allowed when using generative AI tools.
+If in doubt about any of the above, don't use AI tools.
 
 ## AI Assessment Scale may help you
-![](img/aias.png)
+![](img/aias.png){width="70%"}
 
 ::: {.footer}
-[Perkins, M., Furze, L., Roe, J., & MacVaugh, J. (2024). The Artificial Intelligence Assessment Scale (AIAS): A framework for ethical integration of generative AI in educational assessment. Journal of University Teaching and Learning Practice, 21(06)](https://open-publishing.org/journals/index.php/jutlp/article/view/810)
+[Perkins, M., Furze, L., Roe, J., & MacVaugh, J. (2024). The Artificial Intelligence Assessment Scale (AIAS): A framework for<br> ethical integration of generative AI in educational assessment. Journal of University Teaching and Learning Practice, 21(06)](https://open-publishing.org/journals/index.php/jutlp/article/view/810)
 :::
 
 
